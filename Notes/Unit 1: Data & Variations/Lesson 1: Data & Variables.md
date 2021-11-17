@@ -10,6 +10,7 @@
 - **Categorical** (or **qualitative**) **variables**: Variables that describe qualities (gender, address, type of cars, etc.)
 
 **Inferential statistics**: Study sample to make inferences (predictions) about the population
+
 **Descriptive statistics**: Study sample to describe its features and characteristics
 
 
